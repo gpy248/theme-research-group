@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "New 2D horizontal free surface flow models with applications for water waves"
 authors:
 - admin
 - Robert Ford
