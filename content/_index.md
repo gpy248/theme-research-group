@@ -16,7 +16,13 @@ sections:
         <br>
         
         Zhengtong Yang Personal homepage desc
-  
+  - block: people
+    content:
+      title: Personal Introduction
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true  
   - block: collection
     content:
       title: Latest News
