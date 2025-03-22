@@ -1,11 +1,17 @@
 ---
-title: "CFD study of propeller tip vortex cavitation"
+title: "A comparative study of Typhoon Hato (2017) and Typhoon Mangkhut (2018)—Their impacts on coastal inundation in Macau"
 authors:
-- Zhang Y
-- Zhu Y
-- Zhang L
+- Yang, J
+- Li, L
+- Zhao, K
+- Wang, P
+- Wang, D
+- Sou, I.M
 - admin
-- Li Y
+- Hu, J
+- Tang, X
+- Mok, K.M
+- Liu, P. L.-F
 
 date: "2015-09-01T00:00:00Z"
 doi: ""
@@ -19,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Multiphase Flow, 105020"
+publication: "Journal of Geophysical Research: Oceans, 124(12):9590-619"
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -34,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1016/j.ijmultiphaseflow.2024.105020
+url_pdf: https://doi.org/10.1029/2019JC015249
 url_code: ''
 url_dataset: ''
 url_poster: ''

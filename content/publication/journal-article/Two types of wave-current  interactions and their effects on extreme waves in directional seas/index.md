@@ -1,11 +1,12 @@
 ---
 title: "Two types of wave-current interactions and their effects on extreme waves in directional seas"
 authors:
+- Wang, J
+- Ma, Q
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Gao, J
+- Wu, G
+
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
