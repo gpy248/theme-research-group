@@ -2,10 +2,8 @@
 title: "New 2D horizontal free surface flow models with applications for water waves"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Liu, P. L.-F.
+
 date: "2015-09-01T00:00:00Z"
 doi: ""
 

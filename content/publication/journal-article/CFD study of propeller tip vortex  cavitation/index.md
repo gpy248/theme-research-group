@@ -1,6 +1,7 @@
 ---
 title: "CFD study of propeller tip vortex cavitation"
 authors:
+- Zhang Y
 - admin
 - Robert Ford
 author_notes:
