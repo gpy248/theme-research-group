@@ -19,6 +19,13 @@ sections:
   - block: people
     content:
       title: Personal Introduction
+      user_groups:
+          - Principal Investigators
+          - Researchers
+          - Grad Students
+          - Administration
+          - Visitors
+          - Alumni
     design:
       show_interests: false
       show_role: true
