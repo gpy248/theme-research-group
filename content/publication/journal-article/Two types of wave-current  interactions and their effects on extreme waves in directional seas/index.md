@@ -1,5 +1,5 @@
 ---
-title: "Two types of wave-current interactions and their effects on extreme waves in directional seas"
+title: "Two two types of wave-current interactions and their effects on extreme waves in directional seas"
 authors:
 - Wang, J
 - Ma, Q
